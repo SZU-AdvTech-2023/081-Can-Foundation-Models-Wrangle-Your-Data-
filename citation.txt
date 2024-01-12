@@ -1,0 +1,10 @@
+@article{REPO081,
+    author = "Narayan, Avanika and Chami, Ines and Orr, Laurel and R\'{e}, Christopher",
+    journal = "Proc. VLDB Endow.",
+    number = "4",
+    pages = "738¨C746",
+    publisher = "VLDB Endowment",
+    title = "{Can Foundation Models Wrangle Your Data?}",
+    volume = "16",
+    year = "2022"
+}
